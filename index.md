@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # BIGRE and BCM seminars 
