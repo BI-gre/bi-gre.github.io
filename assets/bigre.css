@@ -2,6 +2,11 @@
     max-width: 850px;
 }
 
+.talk {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .people {
     padding-top: 25px;
     padding-bottom: 50px;
@@ -96,3 +101,4 @@
 .submenu a.active {
     font-weight: bold;
 }
+
