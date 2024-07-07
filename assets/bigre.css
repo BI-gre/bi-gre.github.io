@@ -5,7 +5,11 @@
 .talk {
     padding-top: 5px;
     padding-bottom: 5px;
-    line-height: 1;
+    line-height: 1.4;
+}
+
+.talk_title {
+    line-height: 1.2;
 }
 
 .talk_speaker, .talk_date, .talk_where {
