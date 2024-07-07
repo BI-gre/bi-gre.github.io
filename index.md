@@ -14,7 +14,11 @@ Taillefer in the TIMC laboratory.
 To receive information about the seminar, subscribe to the [mailing
 list](https://listes.univ-grenoble-alpes.fr/sympa/info/timc-bcm-seminar).
 
+## 2023-2024 seminars
+
 {% for post in site.talks %}
-    {% include archive-talk.html %}
+    {% if post.series == "2023-2024" %}
+        {% include archive-talk.html %}
+    {% endif %}
 {% endfor %}
 
