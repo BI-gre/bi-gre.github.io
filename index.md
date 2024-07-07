@@ -2,21 +2,17 @@
 layout: page
 ---
 
-# BIGRE and BCM seminars 
+# BIGRE seminars 
 
 Local and nationals speakers are invited to give talk on computational biology
-covering subject from *** and *** to *** and *** and more. 
+covering subject from *computational biology*, *bioinformatics*,
+*biostastics*, and *biophysics*.
 
-Seminars are held from 2 to 3 pm every 2 weeks alternating between : 
+Seminars are typically held either in the IMAG auditorium or at the Pavillon
+Taillefer in the TIMC laboratory.
 
- - BIGRE seminars, taking place the afternoon of a BIGRE coworking event
-   (bearing exeptions) once per month. They will be held at the IMAG
-   auditorium. 
-
-and
-
-- BCM seminars taking place at the Pavillon Taillefer, room R31. 
-
+To receive information about the seminar, subscribe to the [mailing
+list](https://listes.univ-grenoble-alpes.fr/sympa/info/timc-bcm-seminar).
 
 {% for post in site.talks %}
     {% include archive-talk.html %}
