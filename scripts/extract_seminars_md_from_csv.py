@@ -24,6 +24,7 @@ seminars = seminars[
 seminars["title"] = seminars["title"].fillna("TBD")
 seminars["speaker"] = seminars["speaker"].fillna("TBD")
 
+
 if outdir is not None:
     os.makedirs(outdir, exist_ok=True)
 
