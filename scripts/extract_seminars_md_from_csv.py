@@ -39,7 +39,7 @@ for _, seminar in seminars.iterrows():
         if isinstance(seminar["affiliation"], str):
             f.write("affiliation: \"%s\"\n" % seminar["affiliation"])
         f.write("series: \"%s\"\n" % seminar["series"])
-        f.write("displine: \"%s\"\n" % seminar["discipline"].capitalize())
+        f.write("discipline: \"%s\"\n" % seminar["discipline"].capitalize())
         f.write("when: \"%s - %s\"\n" % (seminar["when"], seminar["time"]))
         f.write("type: bigre\n")
         f.write("where: \"%s\"\n" % (seminar["where"]))
