@@ -5,7 +5,7 @@ permalink: /days/
 ---
 
 
-# BiGre Days: February, 20th
+# BiGre Days: February, 20th, 2025 @ IMAG
 
 Join us for the BiGre Days, a one-day conference bringing together the vibrant
 community of computational biology, biostatistics, bioinformatics, and
@@ -16,4 +16,7 @@ research.
 We aim to provide a platform for young local researchers to share their work
 and foster collaboration.
 
-**Important dates**
+## Important dates
+
+- **BiGre days**: Febrary 20th, 2025
+- **Call for proposals**: TBD
