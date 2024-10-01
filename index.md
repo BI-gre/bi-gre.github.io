@@ -12,7 +12,7 @@ Seminars are typically held either in the IMAG auditorium or at the Pavillon
 Taillefer in the TIMC laboratory.
 
 To receive information about the seminar, subscribe to the [mailing
-list](https://listes.univ-grenoble-alpes.fr/sympa/info/timc-bcm-seminar).
+list](https://listes.univ-grenoble-alpes.fr/sympa/info/bigre-seminars).
 
 ## 2024-2025 seminars
 

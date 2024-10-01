@@ -18,11 +18,12 @@ seminars = pd.read_csv(filename)
 seminars = seminars.loc[~seminars["series"].isna()]
 seminars = seminars.loc[seminars["type"].isin(["BCM", "BIGRE"])]
 seminars = seminars[
-    ["series", "when", "where", "time", "speaker", "affiliation", "title",
+    ["series", "when", "where", "discipline", "time", "speaker", "affiliation", "title",
     "type"]]
 
 seminars["title"] = seminars["title"].fillna("TBD")
 seminars["speaker"] = seminars["speaker"].fillna("TBD")
+seminars["discipline"] = seminars["discipline"].fillna("")
 
 
 if outdir is not None:
@@ -38,6 +39,7 @@ for _, seminar in seminars.iterrows():
         if isinstance(seminar["affiliation"], str):
             f.write("affiliation: \"%s\"\n" % seminar["affiliation"])
         f.write("series: \"%s\"\n" % seminar["series"])
+        f.write("discipline: \"%s\"\n" % seminar["discipline"].capitalize())
         f.write("when: \"%s - %s\"\n" % (seminar["when"], seminar["time"]))
         f.write("type: bigre\n")
         f.write("where: \"%s\"\n" % (seminar["where"]))
