@@ -21,5 +21,5 @@ permalink: /coworking/
 - 9 Jan 2025
 - 6 Feb 2025
 - 13 Mar 2025
-- 10 Apr 2025 (location tbc)
+- 17 Apr 2025 
 - 5 June 2025
