@@ -11,6 +11,6 @@ lab: TIMC
 team: MAGe
 ---
 
-Elise Amblard joined the lab in early 2022.
+Elise Amblard joined the lab as a post-doctoral researcher in early 2022.
 During her doctoral work, she worked on scRNAseq datasets with two focuses in mind. She was trying to characterize how immune cells were modified from a healthy tissue to a tumoral one, while also working on improving bioinformatical tools for the analysis of scRNAseq data in general.
 She is now working in the team on how to benchmark and improve algorithms to deconvolve bulk data across various omics.
