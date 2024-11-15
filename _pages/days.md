@@ -18,5 +18,11 @@ and foster collaboration.
 
 ## Important dates
 
-- **BiGre days**: Febrary 20th, 2025
-- **Call for proposals**: TBD
+Conference: 20 février 2025
+
+## Organizing committee
+
+- [Sophie Abby](https://sophieabby.github.io/), TIMC
+- [Antoine Frenoy](https://perso.crans.org/frenoy/), TIMC
+- [Magali Richard](https://magrichard.github.io/index.html), TIMC
+- [Nelle Varoquaux](nellev.github.io), TIMC
