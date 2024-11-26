@@ -26,3 +26,15 @@ Conference: 20 février 2025
 - [Antoine Frenoy](https://perso.crans.org/frenoy/), TIMC
 - [Magali Richard](https://magrichard.github.io/index.html), TIMC
 - [Nelle Varoquaux](nellev.github.io), TIMC
+
+## Program committee
+
+- Thomas Burger, EDyP
+- Laurent Guyon, CEA
+- Clovis Galiez, LJK
+- Vincent Lefort, LECA
+- Frédéric Boyer, LECA
+- Vincent Miele, LECA
+- Delphine Ropers, INRIA, LiPHY
+- Angélique Stephanou, TIMC
+- Florent Chuffart, IAB
