@@ -18,7 +18,11 @@ and foster collaboration.
 
 ## Important dates
 
-Conference: 20 février 2025
+- **Conference**: February 20th 2025
+- **Announcing talk / poster selection**: Januray, 31st 2025
+- **Call close**: January 15th, 2025
+- **Call opening**: November, 27th, 2024
+
 
 ## Organizing committee
 
