@@ -41,4 +41,5 @@ and foster collaboration.
 - Vincent Miele, LECA
 - Delphine Ropers, INRIA, LiPHY
 - Angélique Stephanou, TIMC
+- Ivan Junier, TIMC
 - Florent Chuffart, IAB
