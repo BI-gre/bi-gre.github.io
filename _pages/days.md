@@ -38,7 +38,6 @@ and foster collaboration.
 - Clovis Galiez, LJK
 - Vincent Lefort, LECA
 - Frédéric Boyer, LECA
-- Vincent Miele, LECA
 - Delphine Ropers, INRIA, LiPHY
 - Angélique Stephanou, TIMC
 - Ivan Junier, TIMC
