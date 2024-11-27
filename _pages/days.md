@@ -16,6 +16,10 @@ research.
 We aim to provide a platform for young local researchers to share their work
 and foster collaboration.
 
+*The event is free but registration is mandatory*.
+
+[Registration and call for abstracts](https://forms.gle/W74PL81FYdGJXGK4A)
+
 ## Important dates
 
 - **Conference**: February 20th 2025
