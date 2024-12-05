@@ -16,9 +16,17 @@ research.
 We aim to provide a platform for young local researchers to share their work
 and foster collaboration.
 
+*The event is free but registration is mandatory*.
+
+[Registration and call for abstracts](https://forms.gle/W74PL81FYdGJXGK4A)
+
 ## Important dates
 
-Conference: 20 février 2025
+- **Conference**: February 20th 2025
+- **Announcing talk / poster selection**: Januray, 31st 2025
+- **Call close**: January 15th, 2025
+- **Call opening**: November, 27th, 2024
+
 
 ## Organizing committee
 
@@ -26,3 +34,15 @@ Conference: 20 février 2025
 - [Antoine Frenoy](https://perso.crans.org/frenoy/), TIMC
 - [Magali Richard](https://magrichard.github.io/index.html), TIMC
 - [Nelle Varoquaux](nellev.github.io), TIMC
+
+## Program committee
+
+- Thomas Burger, EDyP
+- Laurent Guyon, CEA
+- Clovis Galiez, LJK
+- Vincent Lefort, LECA
+- Frédéric Boyer, LECA
+- Delphine Ropers, INRIA, LiPHY
+- Angélique Stephanou, TIMC
+- Ivan Junier, TIMC
+- Florent Chuffart, IAB
