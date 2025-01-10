@@ -27,13 +27,20 @@ and foster collaboration.
 - **Call close**: January 15th, 2025
 - **Call opening**: November, 27th, 2024
 
+## Keynotes
+
+We have two invited speakers scheduled!
+
+- Claire Lemaître, GenScale, Inria, Rennes
+- Guido Uguzzoni, BGE, CEA, Grenoble
+
 
 ## Organizing committee
 
 - [Sophie Abby](https://sophieabby.github.io/), TIMC
 - [Antoine Frenoy](https://perso.crans.org/frenoy/), TIMC
 - [Magali Richard](https://magrichard.github.io/index.html), TIMC
-- [Nelle Varoquaux](nellev.github.io), TIMC
+- [Nelle Varoquaux](https://nellev.github.io), TIMC
 
 ## Program committee
 
