@@ -39,7 +39,6 @@ We have two invited speakers scheduled!
 
 |---|---|---|
 | 8:30 | 9:00 |☕ Coffee and registration |  
-|---|---|---|
 | 9:00 | 9:50 | ⭐ *Claire Lemaitre:* Moving from reference genomes to pangenome graphs: benefits and challenges for the analysis of structural variation  |
 | 9:50 | 10:10 | *Arnaud Belcour:* Predicting coarse-grained representations of biogeochemical cycles from metabarcoding data  |
 | 10:10 | 10:30 | *Nathan Shourick:* Two-dimensional numerical resolution of a polar active matter model applied to collective cell migration  |
@@ -65,7 +64,7 @@ We have two invited speakers scheduled!
 | 16:20 | 17:10 |⭐  *Guido Uguzzoni:* In-silico Design of Antibody Specificity from Phage Display Sequencing Data  |
 |---|---|---|
 
-[List of title and abstracts for all talks and posters](https://bi-gre.github.io/2025days)
+[List of title and abstracts for all talks and posters](https://bi-gre.github.io/_pages/full_list_abstracts/index.html)
 
 ## Organizing committee
 
