@@ -35,6 +35,24 @@ We have two invited speakers scheduled!
 - Guido Uguzzoni, BGE, CEA, Grenoble
 
 
+## Schedule
+|       |       |                                                                                                                                                 |   |   |   |   |   |   |   |
+|-------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
+| 9:00  | 9:50  | Claire Lemaitre: Moving from reference genomes to pangenome graphs: benefits and challenges for the analysis of structural variation            |   |   |   |   |   |   |   |
+|-------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
+| 9:50  | 10:10 | Predicting coarse-grained representations of biogeochemical cycles from metabarcoding data                                                      |   |   |   |   |   |   |   |
+| 10:10 | 10:30 | Two-dimensional numerical resolution of a polar active matter model applied to collective cell migration                                        |   |   |   |   |   |   |   |
+|-------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
+| 10:30 | 11:00 |                                                                                                                                                 |   |   |   |   |   |   |   |
+|-------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
+| 11:00 | 11:20 | Peritumoral tissue is a promising source of prognostic biomarkers                                                                               |   |   |   |   |   |   |   |
+| 11:20 | 11:40 | Placental DNAm changes mediating the association between prenatal air pollution exposure and child lung function: a study in the SEPAGES cohort |   |   |   |   |   |   |   |
+| 11:40 | 12:00 | Guilt-by-association (GBA) centrality - an interactome-based analysis method for disease gene prioritization                                    |   |   |   |   |   |   |   |
+| 12:00 | 12:20 | Benchmark of microRNA targets prediction algorithms using microRNA-mRNA co-sequencing datasets at the single-cell level                         |   |   |   |   |   |   |   |
+|-------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
+
+
+
 ## Organizing committee
 
 - [Sophie Abby](https://sophieabby.github.io/), TIMC
