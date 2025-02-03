@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bigre days: Talks & posters 
-permalink: /days_full_abstracts/
+permalink: /2025days/
 ---
 
 
