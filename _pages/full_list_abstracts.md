@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bigre days: Talks & posters 
-permalink: /days/abstracts
+permalink: /days/abstracts/
 ---
 
 
