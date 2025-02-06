@@ -39,7 +39,8 @@ We have two invited speakers scheduled!
 
 |---|---|---|
 | 8:30 | 9:00 |☕ Coffee and registration |  
-| 9:00 | 9:50 | ⭐ *Claire Lemaitre:* Moving from reference genomes to pangenome graphs: benefits and challenges for the analysis of structural variation  |
+|---|---|---|
+| 9:00 | 9:50 | ⭐ *Claire Lemaître:* Moving from reference genomes to pangenome graphs: benefits and challenges for the analysis of structural variation  |
 | 9:50 | 10:10 | *Arnaud Belcour:* Predicting coarse-grained representations of biogeochemical cycles from metabarcoding data  |
 | 10:10 | 10:30 | *Nathan Shourick:* Two-dimensional numerical resolution of a polar active matter model applied to collective cell migration  |
 |---|---|---|
@@ -52,14 +53,14 @@ We have two invited speakers scheduled!
 |---|---|---|
 | 12:20 | 13:30 |🍕 Lunch  |
 |---|---|---|
-| 1:30 | 14:50 | *Sandy Frank Kwamou Ngaha:* Prediction of proteins belonging to a gene family involved in bacterial secretion systems using machine learning approaches.  |
-| 1:50 | 14:10 | *Flora Gaudillière:* Unwelcome guests: characterizing the ecology and evolution of insertion sequences in prokaryotic genomes  |
+| 13:30 | 13:50 | *Sandy Frank Kwamou Ngaha:* Prediction of proteins belonging to a gene family involved in bacterial secretion systems using machine learning approaches.  |
+| 13:50 | 14:10 | *Flora Gaudillière:* Unwelcome guests: characterizing the ecology and evolution of insertion sequences in prokaryotic genomes  |
 | 14:10 | 14:30 | *Florence Pittion:* HDMAX2, an R package to perform high dimension mediation analysis  |
 | 14:30 | 14:50 | *Nicolas Jovanovic:* Navigating Variable Selection and Mixture Identification: A Comprehensive Simulation Study with Mixture Models  |
 |---|---|---|
 | 14:50 | 15:40 |☕ Coffee and poster session  |
 |---|---|---|
-| 15:40 | 16:00 | *Morgane Roger-Margeritat:* The study of quinone exchanges in the gut microbiota  |
+| 15:40 | 16:00 | *Morgane Roger-Margueritat:* The study of quinone exchanges in the gut microbiota  |
 | 16:00 | 16:20 | *Marion Chauveau:* Predicting compensatory mutations in proteins using statistical models  |
 | 16:20 | 17:10 |⭐  *Guido Uguzzoni:* In-silico Design of Antibody Specificity from Phage Display Sequencing Data  |
 |---|---|---|
