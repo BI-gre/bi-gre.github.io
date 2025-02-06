@@ -2,11 +2,11 @@
 title: "Quentin Fernandez de Grado"
 name: "Quentin Fernandez de Grado"
 collection: members
-image: pic.jpg
+image: quentinfdg.jpg
 position: "PhD Candidate"
-github: "https://github.com/KENTIN"
-googlescholar: "https://scholar.google.fr/"
-orcid: "https://orcid.org/"
+github: "https://github.com/Quentinfdg"
+googlescholar: ""
+orcid: "https://orcid.org/0009-0008-2092-045X"
 lab: TIMC
 team: MAGe
 ---
