@@ -84,3 +84,10 @@ We have two invited speakers scheduled!
 - Angélique Stephanou, TIMC
 - Ivan Junier, TIMC
 - Florent Chuffart, IAB
+
+## Sponsors
+
+Thanks to our sponsors!
+This BiGre day is financially supported by:
+- the [TIMC lab](https://www.timc.fr/)
+- the CNRS regional ["Délégation Alpes" (DR11)](https://www.alpes.cnrs.fr/fr)
