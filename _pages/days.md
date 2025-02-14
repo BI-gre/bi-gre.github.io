@@ -18,7 +18,9 @@ and foster collaboration.
 
 *The event is free but registration is mandatory*.
 
-[Registration and call for abstracts](https://forms.gle/W74PL81FYdGJXGK4A)
+**Registration and call for abstracts: Closed**
+
+The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) building's main amphitheater.
 
 ## Important dates
 
