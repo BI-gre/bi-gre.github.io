@@ -12,6 +12,18 @@ permalink: /coworking/
 
 ## Next co-works:
 
+- 11 September 2025  
+- 06 November 2025  
+- 04 December 2025  
+- 29 January 2026  
+- 26 February 2026  
+- 26 March 2026  
+- 23 April 2026  
+- 28 May 2026  
+- 25 June 2026  
+
+Season 2024-2025: 
+
 - 23 May 2024 (room 206, IMAG - careful, badge-access to be arranged)
 - 13 June 2024
 - **Summer break**
