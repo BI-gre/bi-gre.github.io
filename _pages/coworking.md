@@ -8,7 +8,8 @@ permalink: /coworking/
 
 - Where? Seminar Room 1, IMAG Building, Campus St Martin d’Hères.
 - How? Bring your laptop, your best computer bugs & your good mood (we provide coffee, tea and cookies). Let’s work together !
-- When? Once a month, Thursday mornings, from 8 to 14h.
+- When? Once a month, Thursday mornings, from 8 to 12h.
+- Bonus, followed by pizzas and seminar. 
 
 ## Next co-works:
 
