@@ -7,7 +7,7 @@ permalink: /coworking/
 **We (Coworking molecular bioinformatics TIMC *a.k.a. Cowork BIGre*) co-work once a month in the IMAG building.**
 
 - Where? Seminar Room 1, IMAG Building, Campus St Martin d’Hères.
-- How? Bring your laptop, your best computer bugs & your good mood (we provide coffee, tea and cookies). Let’s work together !
+- How? Bring your laptop, your best computer bugs & your good mood (we provide coffee, tea and cookies, but bring your cup). Let’s work together !
 - When? Once a month, Thursday mornings, from 8 to 12h.
 - Bonus, followed by pizzas and seminar. 
 
