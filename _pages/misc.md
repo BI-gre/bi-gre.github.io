@@ -7,8 +7,13 @@ permalink: /misc
 
 # Miscellaneous conferences
 
+## 2025-2026 season
 
-## The ALPHY (Alignment and Phylogenetics)-AIEM (Approche Interdisciplinaire de l'Evolution Moleculaire) meeting
+
+
+## 2024-2025 season
+
+### The ALPHY (Alignment and Phylogenetics)-AIEM (Approche Interdisciplinaire de l'Evolution Moleculaire) meeting
 
 Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recherche) BiM (Bioinformatique Moléculaire). Again this year in coordination with the GDR AIEM.
 
@@ -18,7 +23,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 - Registration: 10 January 2025
  [https://alphy-aiem-2025.sciencesconf.org/](https://alphy-aiem-2025.sciencesconf.org/)
 
-## Mathematical and Computational Evolutionary Biology (MCEB)
+### Mathematical and Computational Evolutionary Biology (MCEB)
 
 - 12-16 June 2025
 - Granada, Spain
@@ -27,7 +32,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 
 [https://mceb2024.sciencesconf.org/](https://mceb2024.sciencesconf.org/)
 
-## JOBIM@Bordeaux, the annual meeting of the French bioinformatics society
+### JOBIM@Bordeaux, the annual meeting of the French bioinformatics society
 
 - 8-11 July 2025
 - Bordeaux
@@ -36,7 +41,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 
 [https://jobim2025.labri.fr/](https://jobim2025.labri.fr/)
 
-## ESEB 2025, European Congress on Evolutionary Biology
+### ESEB 2025, European Congress on Evolutionary Biology
 
 - 17-22 Aug 2025
 - Barcelona, Spain
@@ -56,7 +61,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 [http://www.smbe2025.org/](http://www.smbe2025.org/)
 
 
-## FEMS meeting, Federation of European Microbiology Society
+### FEMS meeting, Federation of European Microbiology Society
 
 - Milan, Italy
 - 14-17 July 2025
@@ -66,7 +71,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 [https://www.femsmicro.org/](https://www.femsmicro.org/)
 
 
-## 14th INTERNATIONAL GUT MICROBIOLOGY SYMPOSIUM
+### 14th INTERNATIONAL GUT MICROBIOLOGY SYMPOSIUM
 
 - Clermont-Ferrand
 - 3-5 June 2025
@@ -75,7 +80,7 @@ Annual meeting of the GT (groupe de travail) of the French GDR (groupe de recher
 
 [https://gutmicrobiology-2025.symposium.inrae.fr/](https://gutmicrobiology-2025.symposium.inrae.fr/)
 
-## A list of events in microbial ecology
+### A list of events in microbial ecology
 
 [https://www.isme-microbes.org/events-microbial-ecology](https://www.isme-microbes.org/events-microbial-ecology)
 
