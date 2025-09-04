@@ -15,7 +15,11 @@ list](https://listes.univ-grenoble-alpes.fr/sympa/info/bigre-seminars).
 
 ## 2025-2026 seminars
 
-SOON TO COME
+{% for post in site.talks %}
+    {% if post.series == "2025-2026" %}
+        {% include archive-talk.html %}
+    {% endif %}
+{% endfor %}
 
 Find speakers slides [here](https://cloud.univ-grenoble-alpes.fr/apps/files/files/1037979240?dir=/BIGRE/S%C3%A9minaires/Saison%202025-2026/Diapos_speakers).
 
