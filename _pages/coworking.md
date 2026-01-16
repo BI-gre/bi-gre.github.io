@@ -16,10 +16,10 @@ permalink: /coworking/
 - 11 September 2025  
 - 06 November 2025  
 - 04 December 2025  
-- 29 January 2026  
+- 15 January 2026  
 - 26 February 2026  
 - 26 March 2026  
-- 23 April 2026  
+- 07 May 2026 
 - 28 May 2026  
 - 25 June 2026  
 
