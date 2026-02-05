@@ -9,6 +9,61 @@ permalink: /misc
 
 ## 2025-2026 season
 
+### Mathematical and Computational Evolutionary Biology (MCEB)
+
+- 4-8 May
+- Heraklion, Crete
+- Abstract submission deadline: Feb 6
+- Registrations: March 15
+
+[https://mceb2026.sciencesconf.org/](https://mceb2026.sciencesconf.org/)
+
+### JOBIM@Strasbourg, the annual meeting of the French bioinformatics society
+
+- 30 Jun-3 July 2026
+- Strasbourg
+- Abstract deadline: 15 Mar 2026
+- Registration: 1 June 26
+
+[https://premc.org/jobim-2026-en/](https://premc.org/jobim-2026-en/)
+
+
+## SMBE meeting, congress of the Society for Molecular Biology and Evolution
+
+- 20-24 Jul 2026
+- Copenhagen, Danmark
+- Abstract deadline: 27 Mar 2026
+- Early bird registration: 31 Mar 2026
+
+[http://www.smbe2026.org/](http://www.smbe2026.org/)
+
+
+## EBEC meeting, bi-annual congress of the European Society for Bioenergetics
+
+- 22-27 Aug 2026
+- Stockholm, Sweden
+- Abstract deadline: ?
+
+[https://ebec-2026.mkon.se](https://ebec-2026.mkon.se)
+
+
+## ISME20 meeting, bi-annual congress of the International Society for Microbial Ecology
+
+- 16-21 Aug 2026
+- Auckland, New Zealand
+- Abstract deadline: 15 Feb 26
+
+https://isme-microbes.org/isme-symposia/isme20/
+
+
+## mBioA: EMBO workshop on Molecular Biology of Archaea
+
+- 6-10 Jul 2026
+- Cambridge, UK
+- Abstract deadline: 15 Apr 26
+- Registration: 15 Apr 26
+
+[https://meetings.embo.org/event/26-archaea](https://meetings.embo.org/event/26-archaea)
 
 
 ## 2024-2025 season
