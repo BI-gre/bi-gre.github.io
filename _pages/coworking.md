@@ -11,7 +11,9 @@ permalink: /coworking/
 - When? Once a month, Thursday mornings, from 8 to 12h.
 - Bonus, followed by pizzas and seminar. 
 
-## Next co-works:
+## Season 2025-2026:
+
+*This season, we had a topic of choice for each session, a presentation by 1-2 member(s) with time for discussion, and sometimes a hands-on practical session*
 
 - 11 September 2025  
 - 06 November 2025  
@@ -23,7 +25,7 @@ permalink: /coworking/
 - 28 May 2026  
 - 25 June 2026  
 
-Season 2024-2025: 
+## Season 2024-2025: 
 
 - 23 May 2024 (room 206, IMAG - careful, badge-access to be arranged)
 - 13 June 2024
