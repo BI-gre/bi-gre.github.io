@@ -7,7 +7,7 @@ permalink: /days/
 
 # BiGre Days: December 7th, 2026 @ IMAG
 
-** Save the date ! **
+**Save the date !**
 
 Join us for this second edition of the BiGre Day, a one-day conference bringing together the vibrant community of computational biology, biostatistics, bioinformatics, and biophysics in Grenoble.
 
