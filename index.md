@@ -21,8 +21,6 @@ list](https://listes.univ-grenoble-alpes.fr/sympa/info/bigre-seminars).
     {% endif %}
 {% endfor %}
 
-Find speakers slides [here](https://cloud.univ-grenoble-alpes.fr/apps/files/files/1037979240?dir=/BIGRE/S%C3%A9minaires/Saison%202025-2026/Diapos_speakers).
-
 
 ## 2024-2025 seminars
 
@@ -32,14 +30,4 @@ Find speakers slides [here](https://cloud.univ-grenoble-alpes.fr/apps/files/file
     {% endif %}
 {% endfor %}
 
-
-Find speakers slides [here](https://cloud.univ-grenoble-alpes.fr/apps/files/files/1011834450?dir=/BIGRE/S%C3%A9minaires/Saison%202024-2025/Diapos_speakers).
-
-## 2023-2024 seminars
-
-{% for post in site.talks %}
-    {% if post.series == "2023-2024" %}
-        {% include archive-talk.html %}
-    {% endif %}
-{% endfor %}
 
