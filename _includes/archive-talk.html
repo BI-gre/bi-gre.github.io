@@ -7,7 +7,9 @@
     <span class="talk_speaker">{{ post.speaker }} ({{ post.affiliation }})
             </span> 
    </b><br>
+    {% if post.discipline %}
     <span class="talk_title">[{{ post.discipline }}] {{ post.title }}</span>  <br>
+    {% endif %}
 
     <i class="fa fa-calendar" aria-hidden="true"></i> <span
    class="talk_date">{{ post.when }}</span> 
