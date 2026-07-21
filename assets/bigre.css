@@ -10,11 +10,18 @@
 }
 
 .talk_title {
+    padding-top: 5px;
     line-height: 1.2;
 }
 
-.talk_speaker, .talk_date, .talk_where {
+.talk_speaker {
+    font-size: larger;
+}
+
+.talk_date, .talk_where {
+    padding-top: 5px;
     padding-right: 20px;
+    font-size: smaller;
 }
 
 
