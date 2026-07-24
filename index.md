@@ -13,6 +13,8 @@ Seminars are held in the IMAG auditorium ([150 Pl. du Torrent, 38400 Saint-Marti
 To receive information about the seminar, subscribe to the [mailing
 list](https://listes.univ-grenoble-alpes.fr/sympa/info/bigre-seminars).
 
+You can add our shared google calendar following this [link](https://calendar.google.com/calendar/u/0?cid=MjhjMmExMjc5YmU2MGM5MTY2YmMxYjcyMzc3ZmFhNGZiNGQ2NzM0ZTRjNGVkY2NiOGMwYjFiZDg5YWVhN2ZkY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
 ## 2026-2027 seminars
 
 {% for post in site.talks %}
