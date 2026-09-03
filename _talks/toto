@@ -1,0 +1,161 @@
+commit 18ed3bb8efbbcc09ae8e189043f4b63d8e8151a6
+Author: Lamothe <lucie.lamothe@univ-grenoble-alpes.fr>
+Date:   Wed Sep 3 15:19:37 2025 +0200
+
+    added talks
+
+diff --git a/_talks/20240926.md b/_talks/20240926.md
+index 65a9730..0af3f98 100644
+--- a/_talks/20240926.md
++++ b/_talks/20240926.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "The importance of ghost lineages for the study of gene flow"
++title: "TBD"
+ speaker: "Damien de Vienne "
+ affiliation: "Université Lyons 1, Lyon"
+ series: "2024-2025"
+diff --git a/_talks/20241121.md b/_talks/20241121.md
+index fa60ae0..1b7edcf 100644
+--- a/_talks/20241121.md
++++ b/_talks/20241121.md
+@@ -1,5 +1,5 @@
+ ---
+-title: " microRNAs in cancer, the contribution of "single cell" technology"
++title: "TBD"
+ speaker: "Laurent Guyon"
+ affiliation: "IRIG, CEA, Grenoble"
+ series: "2024-2025"
+diff --git a/_talks/20241128.md b/_talks/20241128.md
+index 1d38fb7..b687836 100644
+--- a/_talks/20241128.md
++++ b/_talks/20241128.md
+@@ -1,9 +1,9 @@
+ ---
+-title: "Machine learning adventures in biology: overcoming hurdles and harvesting insights"
+-speaker: "Nelle Varoquaux"
+-affiliation: "TIMC, Grenoble"
++title: "TBD"
++speaker: "Thomas Lepoutre"
++affiliation: "INRIA DRACULA, Lyon"
+ series: "2024-2025"
+-discipline: "Biostatistics"
++discipline: "Biomathematics"
+ when: "28/11/2024 - 14:00"
+ type: bigre
+ where: "Taillefer R31"
+diff --git a/_talks/20241219.md b/_talks/20241219.md
+index 59238a8..f84cb1d 100644
+--- a/_talks/20241219.md
++++ b/_talks/20241219.md
+@@ -1,9 +1,9 @@
+ ---
+-title: "A few mathematics arising from modelling some polarization in yeasts. "
+-speaker: "Thomas Lepoutre"
+-affiliation: "INRIA MUSICS, Lyon"
++title: "TBD"
++speaker: "Nelle Varoquaux"
++affiliation: "TIMC, Grenoble"
+ series: "2024-2025"
+-discipline: "Biomathematics"
++discipline: "Biostatistics"
+ when: "19/12/2024 - 14:00"
+ type: bigre
+ where: "Taillefer R31"
+diff --git a/_talks/20250109.md b/_talks/20250109.md
+index 5f66be8..38327e5 100644
+--- a/_talks/20250109.md
++++ b/_talks/20250109.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "Beyond Recombination: Exploring the Impact of Meiotic Frequency on Genome-wide Genetic Diversity"
++title: "TBD"
+ speaker: "Fanny Pouyet"
+ affiliation: "LISN, Paris Saclay"
+ series: "2024-2025"
+diff --git a/_talks/20250123.md b/_talks/20250123.md
+index 11760cd..5214a6d 100644
+--- a/_talks/20250123.md
++++ b/_talks/20250123.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "Benchmarking computational methods to better analyze biological data: which algorithm works best ? "
++title: "TBD"
+ speaker: "Elise Amblard"
+ affiliation: "TIMC, Grenoble"
+ series: "2024-2025"
+diff --git a/_talks/20250206.md b/_talks/20250206.md
+index fa9b965..6167d57 100644
+--- a/_talks/20250206.md
++++ b/_talks/20250206.md
+@@ -1,9 +1,9 @@
+ ---
+-title: "Improved ancestry and admixture detection using principal component analysis of genetic data"
+-speaker: "Florian Privé"
+-affiliation: "Aarhus University, Danemark"
++title: "TBD"
++speaker: "Vittorio Perduca"
++affiliation: "MAP5, Paris"
+ series: "2024-2025"
+-discipline: "Bioinformatics"
++discipline: "Biostatistics"
+ when: "06/02/2025 - 14:00"
+ type: bigre
+ where: "IMAG Auditorium "
+diff --git a/_talks/20250313.md b/_talks/20250313.md
+index 4f00a3f..c6422af 100644
+--- a/_talks/20250313.md
++++ b/_talks/20250313.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "On the role of active translocating motors in organizing the genome in space and time"
++title: "TBD"
+ speaker: "Daniel Jost"
+ affiliation: "LBMC, ENS Lyon"
+ series: "2024-2025"
+diff --git a/_talks/20250327.md b/_talks/20250327.md
+index f8eb439..a0987fe 100644
+--- a/_talks/20250327.md
++++ b/_talks/20250327.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "Expanding reference data and annotation tools for phage protein analysis"
++title: "TBD"
+ speaker: "Clovis Galliez"
+ affiliation: "LJK, Grenoble"
+ series: "2024-2025"
+diff --git a/_talks/20250417.md b/_talks/20250417.md
+index 925ec48..f81d1f2 100644
+--- a/_talks/20250417.md
++++ b/_talks/20250417.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "Spatial transcriptomics: technologies, scientific contribution and challenges"
++title: "TBD"
+ speaker: "Lionel Spinelli"
+ affiliation: "CIML, Marseille"
+ series: "2024-2025"
+diff --git a/_talks/20250515.md b/_talks/20250515.md
+index 9d8fdb4..53a206d 100644
+--- a/_talks/20250515.md
++++ b/_talks/20250515.md
+@@ -1,6 +1,6 @@
+ ---
+-title: "Protein and genomic language models chart a vast landscape of antiphage defenses"
+-speaker: "Ernest Mordret (remplace Aude Bernheim)"
++title: "TBD"
++speaker: "Aude Bernheim"
+ affiliation: "Institut Pasteur, Paris"
+ series: "2024-2025"
+ discipline: ""
+diff --git a/_talks/20250605.md b/_talks/20250605.md
+index f9b9a6b..d057c90 100644
+--- a/_talks/20250605.md
++++ b/_talks/20250605.md
+@@ -1,5 +1,5 @@
+ ---
+-title: "How do sequencing technologies and pangenomic approaches elevate transposable elements from 'junk DNA' to evolutionary players?"
++title: "TBD"
+ speaker: "Anna-Sophie Fiston-Lavier"
+ affiliation: "ISE-M, Montpellier"
+ series: "2024-2025"
