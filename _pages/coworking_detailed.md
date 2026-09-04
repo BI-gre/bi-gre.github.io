@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /coworking/
+permalink: /coworking_detailed/
 ---
 
 **We (Coworking molecular bioinformatics TIMC *a.k.a. Cowork BIGre*) co-work once a month in the IMAG building.**
@@ -49,7 +49,7 @@ permalink: /coworking/
 </div>
 
 {% for post in site.members %}
-    {% include archive-people-index.html %}
+    {% include archive-people.html %}
 {% endfor %}
 
 
