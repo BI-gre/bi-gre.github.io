@@ -4,43 +4,28 @@ title: About
 permalink: /coworking_detailed/
 ---
 
-**We (Coworking molecular bioinformatics TIMC *a.k.a. Cowork BIGre*) co-work once a month in the IMAG building.**
+**We (Coworking molecular bioinformatics TIMC & LIG *a.k.a. Cowork BIGre*) co-work once a month in the IMAG building.**
 
 - Where? Seminar Room 1, IMAG Building, Campus St Martin d’Hères.
 - How? Bring your laptop, your best computer bugs & your good mood (we provide coffee, tea and cookies, but bring your cup). Let’s work together !
 - When? Once a month, Thursday mornings, from 8 to 12h.
+- What? A dedicated topic for each session, with a presentation by 1-2 member(s) and time for discussion, and sometimes a hands-on practical session.
 - Bonus, followed by pizzas and seminar at 13h (see [here for program](https://bi-gre.github.io/)). 
 
 # The co-work schedule
 
-## Season 2025-2026:
+## Season 2026-2027:
 
-*This season, we had a topic of choice for each session, a presentation by 1-2 member(s) with time for discussion, and sometimes a hands-on practical session*
 
-- 11 September 2025  
-- 06 November 2025  
-- 04 December 2025  
-- 15 January 2026  
-- 26 February 2026  
-- 26 March 2026  
-- 07 May 2026 
-- 28 May 2026  
-- 25 June 2026  
-
-## Season 2024-2025: 
-
-- 23 May 2024 (room 206, IMAG - careful, badge-access to be arranged)
-- 13 June 2024
-- **Summer break**
-- 26 Sep 2024
-- 7 Nov 2024
-- 28 Nov 2024
-- 9 Jan 2025
-- 6 Feb 2025
-- 13 Mar 2025
-- 17 Apr 2025 
-- 5 June 2025
-
+- 10 September 2026
+- 15 October 2026
+- 26 November 2026  
+- 17 December 2026  
+- 21 January 2027 
+- 18 February 2027
+- 18 March 2027
+- 27 May 2027
+- 24 June 2027 
 
 # The co-work members 
 
