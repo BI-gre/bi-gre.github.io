@@ -6,8 +6,6 @@ permalink: /days/
 
 # BiGre Days: December 7th, 2026 @ IMAG
 
-**Save the date !**
-
 Join us for this second edition of the BiGre Day, a one-day conference bringing together the vibrant community of computational biology, biostatistics, bioinformatics, and biophysics in Grenoble.
 
 We aim to provide a platform for young (and less young) local researchers to share their work and foster collaboration.
@@ -16,7 +14,7 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 
 ## Important information
 
-- **Conference**: December 7th 2026
+- **Conference date**: December 7th 2026 (more precise schedule TBA)
 
 - **Abstract submission and registration** [using this form](https://framaforms.org/bigre-day-2026-1790948231-0)
 
@@ -29,3 +27,21 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 - **Keynote speaker:** [Clémence Frioux](https://cfrioux.github.io/), INRIA Bordeaux
 
 - The full program will be announced here in mid-November 2026
+
+## Program committee
+
+- Frederic Boyer (LECA)
+- Thomas Burger (BGE)
+- Clovis Galiez (LJK)
+- Laurent Guyon (Biosanté)
+- Magali Richard (LIG)
+- Delphine Ropers or Hidde de Jong (INRIA / LiPhy)
+- Guido Uguzzoni (BGE)
+- Olivier Gandrillon (LBMC)
+
+## Organisation committee
+
+- Nelle Varoquaux (TIMC)
+- Sophie Abby (TIMC)
+- Antoine Frenoy (LIG)
+
