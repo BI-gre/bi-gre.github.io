@@ -22,7 +22,7 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 
 - **Deadline** for abstract submission is November 4th 2026, deadline for registration (attendance without talk or poster) is November 24th 2026. Registration is free but mandatory. 
 
-- **Talk or poster acceptance notifications** will be sent by November 16th 2026.
+- **Talk or poster acceptance notifications** will be sent by mid-November 2026
 
 ## Preliminary program information
 
