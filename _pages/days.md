@@ -35,7 +35,7 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 - Clovis Galiez (LJK)
 - Laurent Guyon (Biosanté)
 - Magali Richard (LIG)
-- Delphine Ropers or Hidde de Jong (INRIA / LiPhy)
+- Delphine Ropers (INRIA / LiPhy)
 - Guido Uguzzoni (BGE)
 - Olivier Gandrillon (LBMC)
 
