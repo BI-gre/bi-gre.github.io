@@ -1,43 +1,55 @@
 ---
 layout: page
+title: Community
+subtitle: The computational biology community in Grenoble
 ---
 
-# BIGRE seminars 
+# The computational biology community in Grenoble
 
-Local and nationals speakers are invited to give talk on computational biology
-covering subject from *computational biology*, *bioinformatics*,
-*biostastics*, and *biophysics*.
+<div class="community-layout">
 
-Seminars are held in the IMAG auditorium ([150 Pl. du Torrent, 38400 Saint-Martin-d'Hères](https://maps.app.goo.gl/orJh7HWmtiXdX1mf6)).
+<aside class="community-side">
+  <img class="community-illustration" src="{{ site.baseurl }}/images/illustration.png" alt="The computational biology community in Grenoble">
 
-To receive information about the seminar, subscribe to the [mailing
-list](https://listes.univ-grenoble-alpes.fr/sympa/info/bigre-seminars).
+  <div class="funding">
+    <a href="https://persyval.univ-grenoble-alpes.fr/recherche/equipes-actions"><img src="{{ site.baseurl }}/images/logo-persyval_0.svg" alt="Persyval-Lab"></a>
+    <p>The BIGRE! community is funded by a <a href="https://persyval.univ-grenoble-alpes.fr/recherche/equipes-actions">Persyval-Lab action team</a>.</p>
+  </div>
+</aside>
 
-You can add our shared google calendar following this [link](https://calendar.google.com/calendar/u/0?cid=MjhjMmExMjc5YmU2MGM5MTY2YmMxYjcyMzc3ZmFhNGZiNGQ2NzM0ZTRjNGVkY2NiOGMwYjFiZDg5YWVhN2ZkY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+<div class="community-main">
+  <p>A non-exhaustive list of labs and teams who do some form of computational biology in Grenoble and participate to the BIGRE! seminars:</p>
 
-## 2026-2027 seminars
+  <div class="lab-grid">
+  {% assign labs = site.labs | sort: "path" %}
+  {% for lab in labs %}
+    <div class="lab-tile">
+      <a href="{{ lab.website }}">
+      {% if lab.image and lab.image != "" %}
+        <img class="lab-image" src="{{ site.baseurl }}/images/labs/{{ lab.image }}" alt="{{ lab.name }}">
+      {% else %}
+        <span class="lab-image lab-image-placeholder">{{ lab.name }}</span>
+      {% endif %}
+      </a>
+      <div class="lab-body">
+        <a class="lab-name" href="{{ lab.website }}">{{ lab.name }}</a>
+        {% if lab.teams %}
+        <div class="lab-teams"><strong>Teams:</strong>
+          {% for team in lab.teams %}{% if team.url and team.url != "" %}<a href="{{ team.url }}">{{ team.name }}</a>{% else %}{{ team.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+        </div>
+        {% endif %}
+        {% if lab.topics %}<div class="lab-topics">{{ lab.topics | join: " · " }}</div>{% endif %}
+        <div class="lab-meta">
+          {% if lab.permanent or lab.non_permanent %}
+          {% assign total = lab.permanent | plus: lab.non_permanent %}
+          <div class="lab-people"><strong>~{{ total }} people</strong></div>
+          {% endif %}
+          {% if lab.contacts %}<div><strong>Contact:</strong> {{ lab.contacts | join: ", " }}</div>{% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
 
-{% for post in site.talks %}
-    {% if post.series == "2026-2027" %}
-        {% include archive-talk.html %}
-    {% endif %}
-{% endfor %}
-
-## 2025-2026 seminars
-
-{% for post in site.talks %}
-    {% if post.series == "2025-2026" %}
-        {% include archive-talk.html %}
-    {% endif %}
-{% endfor %}
-
-
-## 2024-2025 seminars
-
-{% for post in site.talks %}
-    {% if post.series == "2024-2025" %}
-        {% include archive-talk.html %}
-    {% endif %}
-{% endfor %}
-
-
+</div>
