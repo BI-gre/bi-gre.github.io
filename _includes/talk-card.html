@@ -1,0 +1,30 @@
+{% comment %}
+  One seminar card. Everything is computed from the talk's front matter:
+  "when" must start with a date written dd/mm/yyyy (e.g. "15/10/2026 - 13:00").
+{% endcomment %}
+{% assign when_parts = post.when | split: " - " %}
+{% assign date_parts = when_parts[0] | strip | split: "/" %}
+{% assign month_index = date_parts[1] | plus: 0 | minus: 1 %}
+{% assign month_names = "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec" | split: "," %}
+{% assign time = when_parts[1] | strip %}
+{% assign title = post.title | strip %}
+<div class="talk-card" data-date="{{ date_parts[2] }}-{{ date_parts[1] }}-{{ date_parts[0] }}">
+  <div class="talk-date">
+    <span class="talk-day">{{ date_parts[0] }}</span>
+    <span class="talk-month">{{ month_names[month_index] }}</span>
+    <span class="talk-year">{{ date_parts[2] }}</span>
+  </div>
+  <div class="talk-info">
+    <div class="talk-speaker">{{ post.speaker | strip }}{% if post.affiliation and post.affiliation != "" %} <span class="talk-affiliation">· {{ post.affiliation | strip }}</span>{% endif %}</div>
+    {% if title == "" or title == "TBD" %}
+      <div class="talk-title talk-title-tbd">Title to be announced</div>
+    {% else %}
+      <div class="talk-title">{{ title }}</div>
+    {% endif %}
+    <div class="talk-details">
+      {% if post.discipline and post.discipline != "" %}<span class="talk-badge">{{ post.discipline }}</span>{% endif %}
+      {% if time contains ":" %}<span><i class="fa fa-clock-o" aria-hidden="true"></i> {{ time }}</span>{% endif %}
+      {% if post.where and post.where != "" %}<span><i class="fa fa-map-marker" aria-hidden="true"></i> {{ post.where | strip }}</span>{% endif %}
+    </div>
+  </div>
+</div>

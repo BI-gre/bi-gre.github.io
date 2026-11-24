@@ -288,8 +288,11 @@ p > img {
   }
 
   img {
+    height: 70px;
+    width: auto;
+    max-width: 100%;
     border-radius: 5px;
-    object-fit: cover;
+    object-fit: contain;
   }
 }
 
@@ -1135,6 +1138,319 @@ Modules - reusable parts of our design
   }
 }
 
+
+//
+// Community page: illustration on the left, lab tiles on the right
+//
+
+.community-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+
+  @include mobile {
+    flex-direction: column;
+  }
+}
+
+.community-side {
+  flex: 0 0 280px;
+  position: sticky;
+  top: 20px;
+
+  @include mobile {
+    position: static;
+    flex: none;
+    width: 100%;
+  }
+}
+
+.community-main {
+  flex: 1;
+  min-width: 0;
+
+  > p {
+    margin-top: 0;
+  }
+}
+
+.community-illustration {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  margin: 0 auto 15px;
+  border-radius: 5px;
+}
+
+.funding {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+
+  img {
+    height: 40px;
+    width: auto;
+  }
+
+  p {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.4;
+    color: $gray;
+  }
+}
+
+.lab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 15px 0 30px;
+}
+
+.lab-tile {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid $lightGray;
+  border-top: 4px solid $blue;
+  border-radius: 6px;
+  background: $white;
+  color: $darkGray;
+  text-decoration: none;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+}
+
+.lab-image {
+  display: block;
+  width: 100%;
+  height: 110px;
+  padding: 12px;
+  box-sizing: border-box;
+  object-fit: contain;
+  background: $white;
+}
+
+.lab-image-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: lighten($blue, 38%);
+  color: $blue;
+  font-family: $helveticaNeue;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.lab-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 12px 14px 14px;
+}
+
+.lab-name {
+  font-family: $helveticaNeue;
+  font-size: 19px;
+  font-weight: bold;
+  color: $blue;
+  text-decoration: none;
+  margin-bottom: 4px;
+}
+
+.lab-teams {
+  font-size: 14px;
+  color: $darkGray;
+  margin-bottom: 6px;
+}
+
+.lab-topics {
+  font-size: 13px;
+  line-height: 1.4;
+  color: $gray;
+  margin-bottom: 8px;
+}
+
+.lab-meta {
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid $lightGray;
+  font-size: 12px;
+  line-height: 1.5;
+  color: $gray;
+}
+
+.lab-people {
+  color: $darkGray;
+}
+
+//
+// Seminars page: talk cards, next seminar, past seminars
+//
+
+.seminars h2 {
+  margin-top: 30px;
+}
+
+.talk-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 12px 0 20px;
+}
+
+.talk-card {
+  display: flex;
+  align-items: stretch;
+  border: 1px solid $lightGray;
+  border-radius: 6px;
+  background: $white;
+  overflow: hidden;
+}
+
+.talk-date {
+  flex: 0 0 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 6px;
+  background: lighten($blue, 38%);
+  color: $blue;
+  font-family: $helveticaNeue;
+  line-height: 1.1;
+}
+
+.talk-day {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.talk-month {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.talk-year {
+  font-size: 11px;
+  color: $gray;
+  margin-top: 2px;
+}
+
+.talk-info {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 14px;
+}
+
+.talk-speaker {
+  font-weight: bold;
+  color: $darkGray;
+}
+
+.talk-affiliation {
+  font-weight: normal;
+  color: $gray;
+}
+
+.talk-title {
+  margin: 3px 0 6px;
+  font-size: 15px;
+  line-height: 1.4;
+  color: $darkerGray;
+}
+
+.talk-title-tbd {
+  font-style: italic;
+  color: $gray;
+}
+
+.talk-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 14px;
+  font-size: 13px;
+  color: $gray;
+}
+
+.talk-badge {
+  padding: 1px 9px;
+  border-radius: 10px;
+  background: lighten($blue, 38%);
+  color: $blue;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+// The next seminar is shown bigger, on a coloured background
+.next-seminar {
+  margin: 20px 0 10px;
+  padding: 4px 18px 18px;
+  border-radius: 8px;
+  background: lighten($blue, 40%);
+
+  h2 {
+    margin-top: 14px;
+    color: $blue;
+  }
+
+  .talk-card {
+    border: none;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  }
+
+  .talk-date {
+    flex-basis: 96px;
+    background: $blue;
+    color: $white;
+  }
+
+  .talk-year {
+    color: $white;
+  }
+
+  .talk-day {
+    font-size: 34px;
+  }
+
+  .talk-speaker,
+  .talk-title {
+    font-size: 18px;
+  }
+}
+
+.past-seminars {
+  margin-top: 30px;
+
+  summary {
+    cursor: pointer;
+    font-family: $helveticaNeue;
+    font-size: 22px;
+    font-weight: bold;
+    color: $darkGray;
+    padding: 8px 0;
+  }
+
+  h3 {
+    margin: 18px 0 0;
+    color: $gray;
+  }
+
+  .talk-card {
+    opacity: 0.8;
+  }
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
