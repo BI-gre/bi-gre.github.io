@@ -1,0 +1,26 @@
+{% comment %} One co-work member card, built from a file in _members/ {% endcomment %}
+<div class="member-card">
+  <img class="member-photo"
+       src="{{ site.baseurl }}/images/people/{% if post.image %}{{ post.image }}{% else %}unknown_person.jpg{% endif %}"
+       alt="{{ post.name }}">
+  <div class="member-name">{{ post.name }}</div>
+  {% if post.position %}<div class="member-position">{{ post.position }}</div>{% endif %}
+  {% if post.lab %}<div class="member-lab">{{ post.lab }}{% if post.team %} · {{ post.team }}{% endif %}</div>{% endif %}
+
+  <div class="member-links">
+    {% if post.website %}<a href="{{ post.website }}" title="Website"><i class="fa fa-globe" aria-hidden="true"></i></a>{% endif %}
+    {% if post.github %}<a href="{{ post.github }}" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a>{% endif %}
+    {% if post.googlescholar %}<a href="{{ post.googlescholar }}" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
+    {% if post.orcid %}<a href="{{ post.orcid }}" title="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>{% endif %}
+    {% if post.twitter %}<a href="{{ post.twitter }}" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>{% endif %}
+    {% if post.osf %}<a href="{{ post.osf }}" title="OSF"><i class="ai ai-osf" aria-hidden="true"></i></a>{% endif %}
+  </div>
+
+  {% assign bio = post.content | strip %}
+  {% if bio != "" %}
+  <details class="member-bio">
+    <summary>About</summary>
+    {{ post.content }}
+  </details>
+  {% endif %}
+</div>

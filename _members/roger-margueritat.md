@@ -3,7 +3,7 @@ title: "Morgane Roger-Margueritat"
 name: "Morgane Roger-Margueritat"
 collection: members
 image: photo_Morgane.jpg
-position: "phd_student"
+position: "PhD student"
 lab: TIMC
 team: TrEE
 ---

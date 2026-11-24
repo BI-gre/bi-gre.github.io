@@ -1,6 +1,6 @@
 ---
 name: "TIMC"
-website: "https://www-timc.imag.fr/"
+website: ""
 # Illustration: put the file in images/labs/ (leave empty to show the lab name instead)
 image: "timc.jpg"
 teams:

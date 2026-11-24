@@ -2,7 +2,7 @@
 title: "Gabin Laurent"
 name: "Gabin Laurent"
 collection: members
-position: "postdoc"
+position: "Postdoc"
 image: gabin.jpeg
 googlescholar: "https://scholar.google.com/citations?user=h7IpnN0AAAAJ&hl=fr&oi=ao"
 lab: TIMC

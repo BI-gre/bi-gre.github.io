@@ -24,15 +24,13 @@ subtitle: The computational biology community in Grenoble
   {% assign labs = site.labs | sort: "path" %}
   {% for lab in labs %}
     <div class="lab-tile">
-      <a href="{{ lab.website }}">
       {% if lab.image and lab.image != "" %}
         <img class="lab-image" src="{{ site.baseurl }}/images/labs/{{ lab.image }}" alt="{{ lab.name }}">
       {% else %}
         <span class="lab-image lab-image-placeholder">{{ lab.name }}</span>
       {% endif %}
-      </a>
       <div class="lab-body">
-        <a class="lab-name" href="{{ lab.website }}">{{ lab.name }}</a>
+        <span class="lab-name">{{ lab.name }}</span>
         {% if lab.teams %}
         <div class="lab-teams"><strong>Teams:</strong>
           {% for team in lab.teams %}{% if team.url and team.url != "" %}<a href="{{ team.url }}">{{ team.name }}</a>{% else %}{{ team.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}

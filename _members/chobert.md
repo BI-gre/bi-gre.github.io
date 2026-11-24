@@ -4,7 +4,7 @@ name: "Sophie-Carole Chobert"
 collection: members
 image: koi_sophie_c.png
 github: "https://github.com/choberts"
-position: "phd_student"
+position: "PhD student"
 lab: TIMC
 team: TrEE
 ---

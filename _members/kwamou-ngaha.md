@@ -4,7 +4,7 @@ name: "Sandy Frank Kwamou Ngaha"
 collection: members
 image: photo_frank.png
 github: "https://github.com/sandyfrank"
-position: "phd_student"
+position: "PhD student"
 lab: TIMC
 team: TrEE
 ---

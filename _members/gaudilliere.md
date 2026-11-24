@@ -5,7 +5,7 @@ collection: members
 image: photo_Flora.JPG
 website: "https://fgaudilliere.github.io/"
 github: "https://github.com/fgaudilliere"
-position: "phd_student"
+position: "PhD student"
 twitter: "https://twitter.com/f_gaudilliere"
 lab: TIMC
 team: TrEE

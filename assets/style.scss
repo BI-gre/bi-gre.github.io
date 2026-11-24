@@ -1219,13 +1219,6 @@ Modules - reusable parts of our design
   border-radius: 6px;
   background: $white;
   color: $darkGray;
-  text-decoration: none;
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
-
-  &:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
-    transform: translateY(-2px);
-  }
 }
 
 .lab-image {
@@ -1449,6 +1442,181 @@ Modules - reusable parts of our design
 
   .talk-card {
     opacity: 0.8;
+  }
+}
+
+//
+// Co-working page: practical info, schedule, members
+//
+
+.cowork-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+  margin: 20px 0 14px;
+}
+
+.cowork-info-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px;
+  border: 1px solid $lightGray;
+  border-top: 4px solid $blue;
+  border-radius: 6px;
+  background: $white;
+  font-size: 14px;
+  line-height: 1.45;
+  color: $darkGray;
+
+  .fa {
+    font-size: 22px;
+    color: $blue;
+  }
+}
+
+.cowork-info-title {
+  font-family: $helveticaNeue;
+  font-weight: bold;
+  font-size: 16px;
+  color: $blue;
+}
+
+.cowork-bonus {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 30px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  background: lighten($blue, 40%);
+  color: $darkGray;
+  font-size: 15px;
+
+  .fa {
+    font-size: 20px;
+    color: $blue;
+  }
+}
+
+.cowork-schedule {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(78px, 1fr));
+  gap: 10px;
+  margin: 15px 0 30px;
+}
+
+.cowork-session {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 4px;
+  border-radius: 6px;
+  background: lighten($blue, 38%);
+  color: $blue;
+  font-family: $helveticaNeue;
+  line-height: 1.1;
+
+  &.is-past {
+    opacity: 0.4;
+  }
+
+  &.is-next {
+    background: $blue;
+    color: $white;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+
+    .talk-year {
+      color: $white;
+    }
+  }
+}
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 16px;
+  margin: 15px 0 30px;
+}
+
+.member-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 12px 12px;
+  text-align: center;
+  border: 1px solid $lightGray;
+  border-top: 4px solid $blue;
+  border-radius: 6px;
+  background: $white;
+}
+
+.member-photo {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.member-name {
+  font-family: $helveticaNeue;
+  font-weight: bold;
+  font-size: 16px;
+  color: $darkGray;
+}
+
+.member-position {
+  font-size: 13px;
+  color: $gray;
+}
+
+.member-lab {
+  margin-top: 6px;
+  padding: 1px 9px;
+  border-radius: 10px;
+  background: lighten($blue, 38%);
+  color: $blue;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.member-links {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+  font-size: 18px;
+
+  a {
+    color: $gray;
+    text-decoration: none;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.member-bio {
+  width: 100%;
+  margin-top: 10px;
+  border-top: 1px solid $lightGray;
+  text-align: left;
+  font-size: 13px;
+  line-height: 1.45;
+  color: $darkGray;
+
+  summary {
+    padding-top: 8px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    color: $blue;
+  }
+
+  p {
+    margin: 8px 0 0;
   }
 }
 

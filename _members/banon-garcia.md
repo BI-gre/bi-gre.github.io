@@ -3,7 +3,7 @@ title: "Victor Bañon Garcia"
 name: "Victor Bañon Garcia"
 collection: members
 github: "https://github.com/VictorBanon"
-position: "phd_student"
+position: "PhD student"
 lab: TIMC
 team: TrEE
 ---

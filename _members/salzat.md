@@ -3,7 +3,7 @@ title: "Timothée SALZAT-HERVOUETTE"
 name: "Timothée SALZAT-HERVOUETTE"
 collection: members
 image: salzatht.png
-position: "PhD Student"
+position: "PhD student"
 github: "https://github.com/Ameleor"
 lab: TIMC
 team: TrEE
