@@ -14,7 +14,7 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 
 ## Registration, abstract submission, and other information
 
-- **Conference date**: December 7th 2026 (more precise schedule TBA)
+- **Conference date**: December 7th 2026 (detailed schedule below)
 
 - **Registration** is free but mandatory, [using this form](https://framaforms.org/bigre-day-2026-1790948231-0)
 
@@ -24,7 +24,7 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 
 - **Talk acceptance notifications** were sent on November 17th 2026
 
-## Preliminary program (2026-12-07)
+## Detailed program (2026-12-07)
 
 | Start  | End    | Speaker                                 | Title                                                                                                                  |
 | ------ | ------ |:--------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------|
@@ -46,6 +46,15 @@ The event will take place in the [IMAG](https://batiment.imag.fr/public/plan/) b
 | 15:35  | 16:00  | **Emma Bouvet**                         | Investigating the diversity and origins of ubiquinone biosynthesis across eukaryotes                                   |
 | 16:00  | 16:45  | **Thomas Burger**                       | A Unified and Practical Taxonomy for False Discovery Rate Control in Omics                                             |
 
+Poster presenters:
+- **Hoang Alexis Nguyen**, Designing genome annotation tools to investigate the evolution of bioenergetic enzymes
+- **Timothée Salzat-Hervouette**, Investigating the evolution of phototrophy in Pseudomonadota
+- **Clémentine Decamps**, Epinomics platform -- from samples to figures
+- **Juliette Louistisserand**, Interaction between tumour heterogeneity and somatic mutational profile
+- **Faustine Boulet**, Prognostic power of the peritumoral liver tissue in hepatocellular carcinoma driven by an inflammatory–metabolic axis
+- **Arthur Reveillard**, Identification of novel isoprenoid quinones in environmental lipidomes using molecular networking
+
+*There is still space for more posters: email us if you would like to present your work as a poster*
 
 ## Program committee
 
